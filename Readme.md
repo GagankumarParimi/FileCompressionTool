@@ -119,7 +119,7 @@ This table includes the decompressed size of each file after being restored from
 
 This table provides a quick overview of the compression efficiency of the Huffman coding implementation. As noted, while the compressed files are significantly smaller than the original files.
 
-![Output File Structure](images/compression_times.png)
+![Output File Structure](images/compression_times.PNG)
 
 ### Compression Time Comparison
 
